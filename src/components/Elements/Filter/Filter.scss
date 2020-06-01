@@ -1,0 +1,23 @@
+/*Filter css*/
+
+.form-control:focus {
+    outline: 0 !important;
+    border-color: initial;
+    box-shadow: none;
+}
+.icon_location{
+    max-width: 20px;
+    max-height: 20px;
+}
+.btn:focus {
+    outline: 0 !important;
+    border-color: initial;
+    box-shadow: none;
+}
+
+.no-outline{
+    border-color: transparent;
+}
+.no-outline:hover{
+    border-color: transparent;
+}
